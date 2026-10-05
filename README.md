@@ -32,6 +32,7 @@ While building this project, I learned:
 Created as a learning exercise based on a tutorial. 
 
 On the YouTube video learn Tkinter - (https://youtu.be/mop6g-c5HEY?si=HxmMmEtAactNCDWE) from (12:27:12)
+On the YouTube video learn Python- (https://youtu.be/mDKM-JtUhhc?si=OFGnHm-G1h4vvHkx)
 
 **📊 Document**
 - https://docs.python.org/3/library/tkinter.html
